@@ -1,0 +1,27 @@
+body {
+	
+background-image: url("https://image.jimcdn.com/app/cms/image/transf/none/path/s29a890b8b0cf72cb/backgroundarea/ie0a5742cb63264a5/version/1516588633/image.jpg");
+ background-size: 3000px 1000px;
+}
+
+#a1 {
+  
+  border: 10px solid #ccc;
+  float: right;
+  width: 70px;
+}
+
+h1 {
+  border-style: dotted;
+  border-color: blue;
+  background-color:DodgerBlue;
+  width: 100vh;
+  text-align: center;
+
+}
+label {
+    display: block;
+    margin:50px;
+    size:10px;
+}
+
