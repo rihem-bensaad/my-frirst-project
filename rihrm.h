@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap" rel="stylesheet">
+
+	<link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" href="st.css">
+	<script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<img id="hal" src="C:\Users\RBK\Desktop\project\my-project\r.jpg">
+	<title>Rihem Travel</title>
+</head>
+<body>
+<h1>Riham Travel</h1>
+
+<ul class="bt">
+	<li><a href="https://github.com/rihem-bensaad">HOME</a></li>
+	<li><a href="https://www.facebook.com/profile.php?id=100006434415288">CONTACT</a></li>
+	<li id='li'><a>CALL US <span class='num'></span></li>
+<ul class="im">
+	<li><button onclick="func()" id="SIDI">SIDI BOU SAID </button></li>
+	<li><button onclick="func2()"id="SOUSSE">SOUSSE </button></li>
+	<li><button onclick="func3()"id="MONASTIR">MONASTIR</button></li>
+	<li><button onclick="func4()"id="MAHDIA">MAHDIA </button></li>
+	<li><button onclick="func5()"id="JERBA">JERBA </button></li>
+	<li><button onclick="func6()"id="TOZEUR">TOZEUR </button></li>
+	<li><button onclick="func7()"id="BIZERTE">BIZERTE</button> </li>
+<div class="m1">
+	<p>Sidi Bou Said is a village in Tunisia located about twenty kilometers north-east of Tunis. It has 5,911 inhabitants according to the 2014 census. Perched on a cliff overlooking Carthage and the Gulf of Tunis, it is named after a saint: Sidi Bou Saïd.
+Postal code: 2026
+Governorate: Tunis
+Geographic code: 11 51 51
+Mayor: Raouf Dakhlaoui
+Population: 5,911 (2014)
+Delegation (s): Carthage</p>
+	<img src="https://www.tunisienumerique.com/wp-content/uploads/2020/03/panoramica-sidi-bou-said.jpg"> 
+</div>
+<div class="m2">
+	<p>
+Sousse is a port city in eastern Tunisia, located 143 kilometers south of Tunis, and open to the Gulf of Hammamet.
+Area: 45 km²
+Weather: 29 ° C, NW wind at 10 km / h, 52% humidity
+Postal code: 4000
+Population: 221,530 inhabitants (2014)
+Delegation (s): Sousse Jawhara; Sousse Medina; Sousse Riadh; Sousse Sidi Abdelhamid; Sahloul; PLUS
+Team: Etoile Sportif du Sahel</p>
+	<img src="https://www.webdo.tn/wp-content/uploads/2018/11/Tunisie_Sousse-1-1024x604.jpg"> 
+</div>
+<div class="m3">
+	<p>
+Monastir, is a coastal town in the Tunisian Sahel, in the center-east of Tunisia, located on a peninsula south-east of the Gulf of Hammamet, about twenty kilometers east of Sousse and 162 kilometers to the south of Tunis. In 2014, the population of the municipality reached 93,306 inhabitants.
+Weather: 27 ° C, NW wind at 10 km / h, 69% humidity
+Population: 4,562 (2017) ISTAT
+Local time: Monday 10:29 AM
+Area code: 73
+Neighborhoods: Sahline, Cité El Agba, Jammel, Stah Jaber, Medina, PLUS
+Team: Monastirienne Sports Union </p>
+	<img src="https://image.resabooking.com/images/hotel/Regency_Hotel_&_Spa_Monastir_.jpg"> 
+</div>
+<div class="m4">
+	<p>Mahdia is a Tunisian coastal city located in the center-east of the country, about 200 kilometers south of the capital Tunis. Chief town of the governorate of the same name, it constitutes a municipality with 51,833 inhabitants in 2014.
+Weather: 29 ° C, wind N at 8 km / h, 62% humidity
+Postal code: 5100
+Population: 62,189 (2014)
+Mayor: Faïza Boubaker Belkhir
+Gentile: Mahdois
+Local time: Monday 10:35 AM
+Area: 64,500 ha = 645 km2
+Clubs and teams: El Makarem de Mahdia, Mahdois sports club </p>
+	<img src="https://voyageforum.info/images/hd/posts/openmedium/1569962941-E4N922Z9CSx4Nci.jpeg"> 
+</div>
+<div class="m5">
+	<p>Djerba is an island on the Tunisian coast known for its Mediterranean beaches and its white desert cities influenced by Berber, Arab, Jewish and African cultures. Its main city is Houmt Souk. It is renowned for its craft markets, its fishing port and its 16th century fortress, Borj el Kebir. To the south is the El Ghriba synagogue, a place of pilgrimage for the Jews of North Africa.
+Area: 514 km²
+Population: 163,726 (2014)
+Coordinates: 33 ° 48 ′ N, 10 ° 51 ′ E
+Location: Mediterranean Sea
+Governorate: Medenine
+Coasts: 150 km  </p>
+	<img src="https://www.voyage-djerba.net/wp-content/uploads/2016/03/plage-djerba-1-1024x679.jpg"> 
+</div>
+</div>
+<div class="m6">
+	<p>
+Tozeur is a Tunisian city on the borders of the Atlas and the Sahara Desert, the largest of the five oases in the Jerid. Gradually built around its palm grove, it is the capital of the governorate of the same name. 
+Weather: 34 ° C, wind E at 27 km / h, 30% humidity
+Postal code: 2200
+Population: 37,370 (2014)
+Mayor: Ali Hafsi Jeddi
+Local time: Monday 10:51 AM
+Gentile: Tozeurois
+Metropolitan population: 46,422
+Clubs and teams: La Palme sportive de Tozeur, Jérid Tozeur sports association </p>
+	<img src="https://www.mifuguemiraison.com/wp-content/uploads/2019/10/chebika-oasis-lac-palmier-900x600.jpg"> 
+</div>
+
+<div class="m7">
+	<p>
+The governorate of Bizerte, created in 1956, is one of the 24 governorates of Tunisia. It is located in the north of the country and covers an area of ​​3,685 km², or 2.25% of the country's area. In 2014, it housed a population of 568,219 inhabitants. Its capital is Bizerte.
+Area: 3750 km²
+Population: 568,219 (2014)
+Capital: Bizerte.
+Region level: List of Tunisian governorates by area.
+University: National School of Engineers of Bizerte. </p>
+	<img src="https://www.vacances-tunisie.info/files/2012/02/tunisie-4.jpg"> 
+</div>
+
+
+
+</ul>
+<script>
+	$('.m1').hide()
+	function func(){
+			$('.m1').show()
+			$('.m2').hide()
+			$('.m3').hide()
+			$('.m4').hide()
+			$('.m5').hide()
+			$('.m6').hide()
+			$('.m7').hide()
+
+	}
+		$('.m2').hide()
+	function func2(){
+		    $('.m1').hide()
+			$('.m2').show()
+			$('.m3').hide()
+			$('.m4').hide()
+			$('.m5').hide()
+			$('.m6').hide()
+			$('.m7').hide()
+	}
+		$('.m3').hide()
+	function func3(){
+		    $('.m1').hide()
+		    $('.m2').hide()
+			$('.m3').show()
+			$('.m4').hide()
+			$('.m5').hide()
+			$('.m6').hide()
+			$('.m7').hide()
+	}
+			$('.m4').hide()
+	function func4(){
+		    $('.m1').hide()
+		    $('.m2').hide()
+		    $('.m3').hide()
+			$('.m4').show()
+			$('.m5').hide()
+			$('.m6').hide()
+			$('.m7').hide()
+	}
+			$('.m5').hide()
+	function func5(){
+		    $('.m1').hide()
+		    $('.m2').hide()
+		    $('.m3').hide()
+			$('.m5').show()
+			$('.m6').hide()
+			$('.m7').hide()
+			$('.m4').hide()
+	}
+				$('.m6').hide()
+	function func6(){
+		    $('.m1').hide()
+		    $('.m2').hide()
+		    $('.m3').hide()
+			$('.m6').show()
+			$('.m4').hide()
+			$('.m5').hide()
+			$('.m7').hide()
+	}
+
+		$('.m7').hide()
+	function func7(){
+		    $('.m1').hide()
+		    $('.m2').hide()
+		    $('.m3').hide()
+			$('.m7').show()
+			$('.m4').hide()
+			$('.m6').hide()
+			$('.m5').hide()
+	}
+	$('#li').on('click',function(){
+		$('.num').html(29159913);
+		
+	})
+
+</script>
+
+<script type="text/javascript" src="project.js"></script>
+</body>
+</html>

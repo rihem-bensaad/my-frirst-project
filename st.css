@@ -1,0 +1,43 @@
+h1{
+	font-size: 50px;
+	text-align: center;
+	color: white;
+	font-family: 'Do Hyeon', sans-serif;
+	
+}
+body{
+	background-image: url("https://media.giphy.com/media/3o6ZtelrVAOD5EcmCQ/giphy.gif");
+	background-size: 3000px 1000px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	
+}
+.bt li{
+	display: inline-block;
+	padding: 50px;
+	font-family: 'Do Hyeon', sans-serif;
+	
+}
+.bt li a{
+	color: #424949;
+	text-decoration: none
+}
+p{
+	color: #154360 ; 
+	
+}
+button{
+	color:#0A3E91  ;
+	background-color : #2BC5C8 ;
+}
+
+a{
+	color:#9D8DA8 ;
+	background-color: ; 
+}
+#hal{
+	float: right;
+	border-radius:70%;
+	height:100px
+}
