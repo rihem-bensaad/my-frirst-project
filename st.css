@@ -2,7 +2,7 @@ h1{
 	font-size: 50px;
 	text-align: center;
 	color: white;
-	font-family: 'Do Hyeon', sans-serif;
+
 	
 }
 body{
@@ -24,17 +24,19 @@ body{
 	text-decoration: none
 }
 p{
-	color: #154360 ; 
+	color: #154360;
+
+	 
 	
 }
 button{
 	color:#0A3E91  ;
-	background-color : #2BC5C8 ;
+	background-color : #9966ff;
 }
 
 a{
-	color:#9D8DA8 ;
-	background-color: ; 
+	color:none;
+	 
 }
 #hal{
 	float: right;
